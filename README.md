@@ -29,4 +29,8 @@ You get four downs to score a touchdown either by running it in with your quarte
 In between downs, a message will display on the screen as to why the referee blew the whistle.  Press the left fire button to continue on to the next play.  There will be no pause in between plays, when you press the button the action re-starts immediately.
 
 Your high score will save for the current play session and display on screen if you fail to score on 4th down.  It is not configured for Atarivox or Savekey saving at this point, so if you reset the game your high score will be lost.
+
+v2.19 was the general release in 2022.
+
+v2.21 was released in February 2023 to include AtariVox speech, which is still a work in progress.
  
