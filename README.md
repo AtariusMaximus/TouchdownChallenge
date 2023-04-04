@@ -1,4 +1,4 @@
-# TouchdownChallenge
+# Touchdown Challenge
 This is the code repository for Touchdown Challenge, a game for the Atari 7800.  
 
 Development Thread:  https://forums.atariage.com/topic/339504-touchdown-challenge-revisited/
